@@ -30,6 +30,8 @@ body {
   padding: 1rem 2rem;
 }
 
-.book h1 {
+.book p {
   margin-top: 0.5rem;
+  /* color: red; */
 }
+
